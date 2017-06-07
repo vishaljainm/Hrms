@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\Vishal Jain\Documents\visual studio 2015\Projects\HyderabadService\HyderabadService\bin\Debug\HyderabadService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Vishal Jain\Documents\visual studio 2015\Projects\HyderabadService\HyderabadService\bin\Debug\HyderabadService.InstallLog
+   assemblypath = C:\Users\Vishal Jain\Documents\visual studio 2015\Projects\HyderabadService\HyderabadService\bin\Debug\HyderabadService.exe
+   logtoconsole = 
+Installing service  Hyderabad  Service...
+Service  Hyderabad  Service has been successfully installed.
+Creating EventLog source  Hyderabad  Service in log Application...
+Committing assembly 'C:\Users\Vishal Jain\Documents\visual studio 2015\Projects\HyderabadService\HyderabadService\bin\Debug\HyderabadService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Vishal Jain\Documents\visual studio 2015\Projects\HyderabadService\HyderabadService\bin\Debug\HyderabadService.InstallLog
+   assemblypath = C:\Users\Vishal Jain\Documents\visual studio 2015\Projects\HyderabadService\HyderabadService\bin\Debug\HyderabadService.exe
+   logtoconsole = 
